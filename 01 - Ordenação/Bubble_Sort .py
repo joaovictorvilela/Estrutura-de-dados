@@ -14,12 +14,12 @@ def bubble_sort(vetor):
         # percorrendo o vetor de 0 até fim
         while i < fim-1:
             if vetor[i] > vetor[i+1]:
-                # realizando a troca d posição atual com a próxima
+                # realizando a troca da posição atual com a próxima
                 temp = vetor[i]
                 vetor[i] = vetor[i+1]
                 vetor[i+1] = temp
             i += 1
-        # diminuido o i de fim
+            
         fim -= 1
 
 bubble_sort(lista)
