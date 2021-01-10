@@ -124,11 +124,3 @@ lista.inserir_inicio('d')
 #lista.inserir_em('e', 2)
 #print("item: " + lista.remover_final())
 lista.imprimir()
-'''
-lista = Lista_Encadeada()
-lista.inserir_final('a')
-lista.inserir_final('b')
-lista.inserir_final('c')
-lista.inserir_final('d')
-lista.imprimir() # a b c d
-'''
