@@ -2,7 +2,7 @@ Estrutura de dados & Algoritmos de Ordenação
 
 1.  Estrutura de Dados
     -   [Pilha](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/02%20-%20Estrutura%20de%20Dados/pilha.py)
-    -   [Fila]()
+    -   [Fila](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/02%20-%20Estrutura%20de%20Dados/fila.py)
     -   [Lista Encadeada]()
     -   [Lista Duplamente Encadeada](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/02%20-%20Estrutura%20de%20Dados/lista_duplamente_encadeada.py)
     -   [Lista Encadeada com sentinela](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/02%20-%20Estrutura%20de%20Dados/lista_encadeada_sentinela.py)
