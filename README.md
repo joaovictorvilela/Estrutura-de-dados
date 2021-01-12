@@ -14,5 +14,5 @@
     -   [Mergesort]()
     -   [Quicksort]()
 3.  Algoritmos de Busca
-    - Busca Binária
-    - Busca Sequêncial
+    - [Busca Binária]()
+    - [Busca Sequêncial]()
