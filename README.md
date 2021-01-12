@@ -15,5 +15,5 @@
     -   [Quicksort]()
 3.  Algoritmos de Busca
     - [Busca Binária]()
-    - [Busca Sequêncial]()
-    - [Busca Sequêncial com Sentinela]()
+    - [Busca Sequêncial](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Sequencial.py)
+    - [Busca Sequêncial com Sentinela](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Sequencial_com_Sentinela.py)
