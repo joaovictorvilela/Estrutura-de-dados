@@ -114,13 +114,3 @@ class Lista_Encadeada:
         for i in range(pos):
             p = p.proximo
         return p.item
-
-# main
-lista = Lista_Encadeada()
-lista.inserir_inicio('a')
-lista.inserir_inicio('b')
-lista.inserir_inicio('c')
-lista.inserir_inicio('d')
-#lista.inserir_em('e', 2)
-#print("item: " + lista.remover_final())
-lista.imprimir()

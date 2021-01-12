@@ -92,23 +92,3 @@ class ListaDuplamenteEncadeada(object):
         for i in range(pos):
             p = p.proximo
         return p.item
-
-lista = ListaDuplamenteEncadeada()
- 
-lista.inserir_final(2)
-lista.inserir_final(5)
-lista.inserir_final(12)
-lista.inserir_final(6)
-lista.inserir_final(20)
-lista.imprimir()
-
-print("Encontrado na posição: " + str(lista.buscarPorItem(12)))
-print("Encontrado o item: " + str(lista.buscaPorPosicao(4)))
-
-lista.remover_posicao(1)
-lista.imprimir()
-lista.remover_inicio()
-lista.imprimir()
-lista.remover_final()
-lista.imprimir()
-

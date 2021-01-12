@@ -27,26 +27,8 @@ class Lista_Encadeada:
         p.proximo = aux
         self.tamanho += 1
 
-    ''' Se deve ser ordenada, não é possível inserir no inicio ou no final
-    # inserir no inicio
-    def inserir_inicio(self, item):
-        p = self.inicio
-        aux = Node(item)
-        aux.proximo = p.proximo
-        p.proximo = aux
-        self.tamanho += 1
-
-    # inserir no final
-    def inserir_final(self, item):
-        p = self.inicio
-        for i in range(self.tamanho):
-            p = p.proximo
-        aux = Node(item)
-        aux.proximo = p.proximo
-        p.proximo = aux
-        self.tamanho += 1
-    '''
-
+    # Se deve ser ordenada, não é possível inserir no inicio ou no final
+    
     # remover da posicao
     def remover_posicao(self, pos):
         if not self.estaVazia() and pos<self.tamanho:
