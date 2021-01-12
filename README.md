@@ -8,7 +8,7 @@
     -   [Lista Encadeada Ordenada](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/02%20-%20Estrutura%20de%20Dados/lista_encadeada_ordenada.py)
 2.  Odernação
     -   [Bubble Sort](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Bubble_Sort%20.py)
-    -   [Selection Sort]()
+    -   [Selection Sort](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Selection_Sort.py)
     -   [Insertion Sort]()
     -   [Shell Sort]()
     -   [Mergesort]()
