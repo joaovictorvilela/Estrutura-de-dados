@@ -14,6 +14,6 @@
     -   [Mergesort]()
     -   [Quicksort]()
 3.  Algoritmos de Busca
-    - [Busca Binária]()
+    - [Busca Binária](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Binaria.py)
     - [Busca Sequêncial](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Sequencial.py)
     - [Busca Sequêncial com Sentinela](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Sequencial_com_Sentinela.py)
