@@ -1,6 +1,6 @@
 lista = list(range(0,10))
 
-def busca_sequencia_sentinela(vetor, elementoProcurado):
+def busca_sequencial_sentinela(vetor, elementoProcurado):
     posicao = 0
     # adicionando uma sentinela
     vetor.append(elementoProcurado)
@@ -13,4 +13,4 @@ def busca_sequencia_sentinela(vetor, elementoProcurado):
 
     return posicao
 
-print(busca_sequencia_sentinela(lista,20))
+print(busca_sequencial_sentinela(lista,20))

@@ -1,6 +1,6 @@
 lista = list(range(0,10))
 
-def busca_sequencia(vetor, elementoProcurado):
+def busca_sequencial(vetor, elementoProcurado):
     contador = 0
 
     while contador < len(vetor):
@@ -12,4 +12,4 @@ def busca_sequencia(vetor, elementoProcurado):
     return -1
 
 
-print(busca_sequencia(lista,5))
+print(busca_sequencial(lista,5))
