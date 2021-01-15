@@ -14,7 +14,7 @@
     -   [Insertion Sort](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Insertion_Sort.py)
     -   [Shell Sort](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Shell_Sort.py)
     -   [Mergesort](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Mergesort.py)
-    -   [Quicksort]()
+    -   [Quicksort - (Lomuto - Pivô na Esquerda)]()
 3.  Algoritmos de Busca
     - [Busca Binária](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Binaria.py)
     - [Busca Sequêncial](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Sequencial.py)
