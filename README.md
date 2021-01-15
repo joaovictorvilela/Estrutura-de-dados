@@ -13,7 +13,7 @@
     -   [Selection Sort](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Selection_Sort.py)
     -   [Insertion Sort](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Insertion_Sort.py)
     -   [Shell Sort](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Shell_Sort.py)
-    -   [Mergesort]()
+    -   [Mergesort](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Mergesort.py)
     -   [Quicksort]()
 3.  Algoritmos de Busca
     - [Busca Binária](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Binaria.py)
