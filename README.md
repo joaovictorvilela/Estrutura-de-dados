@@ -1,8 +1,7 @@
 ## Algoritmos e Estrutura de Dados
 > Algoritmos de ordenação, busca e estrutura de dados em python
 
-
-
+----------------------
 Algoritmos de busca | Algoritmos de ordenação | Estrutura de dados
 --- | --- | ---
 [Busca binária](https://github.com/joaovictorvilela/Estrutura-de-dados/blob/main/03%20-%20Busca/Busca_Binaria.py)    | [Bubble Sort](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/01%20-%20Ordena%C3%A7%C3%A3o/Bubble_Sort%20.py)  | [Pilha](https://github.com/joaovictorvilela/Estrutura-de-dados-e-alg-ordenacao/blob/main/02%20-%20Estrutura%20de%20Dados/pilha.py)
